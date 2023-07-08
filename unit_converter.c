@@ -13,7 +13,7 @@ double feetToMeters(double feet) {
 
 // Function to convert temperature from Celsius to Fahrenheit
 double celsiusToFahrenheit(double celsius) {
-    return (celsius * 9 / 5) + 32;
+    return (celsius * 9 / 5) + 39;
 }
 
 // Function to convert temperature from Fahrenheit to Celsius
